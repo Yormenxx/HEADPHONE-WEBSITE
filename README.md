@@ -1,8 +1,14 @@
-# React + Vite
+[![headphones.png](https://i.postimg.cc/4NxRn4K6/headphones.png)](https://postimg.cc/0rFBBs0j)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Headphones landing page
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologías utilizadas
+
+* React
+* Tailwind
+* vite
+* Framer motion
+* mouse-follower
+
+Este proyecto es una Landing basa en la venta de audifonos, mostrando una galería visual con diseños y características.
